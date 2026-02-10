@@ -13,6 +13,7 @@ Let's write down some ideas of future interesting posts.
 - My resume
 
 Technical posts:
+- Learning Vim.
 - My homelab setup
 - A Kaggle competition
 - Popularize a scientific subject
