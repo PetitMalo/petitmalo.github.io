@@ -1,9 +1,7 @@
 ---
-title: Hello, Welcome
-description: An introduction to using the note feature in Astro Cactus
-publishDate: "2024-10-14T11:23:00Z"
+title: Welcome!
+description: A welcoming note
+publishDate: "2026-02-10T17:32:00Z"
 ---
 
-Hi, Hello. This is an example note feature included with Astro Cactus.
-
-They're for shorter, concise "post's" that you'd like to share, they generally don't include headings, but hey, that's entirely up to you.
+Hello, the building of this website is currently in progress. Don't ask for too much!
