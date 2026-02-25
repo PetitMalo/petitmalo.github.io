@@ -12,7 +12,7 @@ tags: ["books"]
 | L'intelligence artificielle, ses biais et les nôtres | Rémy Demichelis | 2024 | Not started |
 | La controverse de Valladolid | Jean-Claude Carrière | 1992 | Not started |
 | How to take smart notes | Sönke Ahrens | 2017 | Finished |
-| Understanding Deep Learning | Simon J. D. Prince | 2023 | In progress |
+| Understanding Deep Learning | Simon J. D. Prince | 2023 | Finished |
 | La dictature des algorithmes | Lê Nguyên Hoang, Jean-Lou Fourquet | 2024 | Finished |
 | Les marchands de doute | Naomi Oresked, Erik M. Conway | 2010 | Finished |
 | Regenesis | George Monbiot | 2022 | Finished |
