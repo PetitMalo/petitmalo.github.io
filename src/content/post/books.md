@@ -15,6 +15,7 @@ tags: ["books"]
 | La dictature des algorithmes | Lê Nguyên Hoang, Jean-Lou Fourquet | 2024 | Finished |
 | Les marchands de doute | Naomi Oresked, Erik M. Conway | 2010 | Finished |
 | Regenesis | George Monbiot | 2022 | Finished |
+| Le monde sans fin | Jancovici | 2021 | Finished |
 | Géopolitique du numérique | Ophélie Coelho | 2023 | Finished |
 | L'apprentissage profond avec Python | François Chollet | 2017 | Finished |
 | Météorologie de l'espace | J. Lilensten, F. Pitout, M. Gruet, J. P. Marques | 2021 | Finished |
