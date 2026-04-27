@@ -9,8 +9,9 @@ tags: ["books"]
 
 | Title    | Author(s) | Publication date | Status |
 | -------- | ------- | - |- |
-| L'intelligence artificielle, ses biais et les nôtres | Rémy Demichelis | 2024 | Not started |
-| La controverse de Valladolid | Jean-Claude Carrière | 1992 | Not started |
+| La vie secrète des arbres | Peter Wohlleben | 2017 | Started |
+| L'intelligence artificielle, ses biais et les nôtres | Rémy Demichelis | 2024 | Finished |
+| La controverse de Valladolid | Jean-Claude Carrière | 1992 | Finished |
 | How to take smart notes | Sönke Ahrens | 2017 | Finished |
 | Understanding Deep Learning | Simon J. D. Prince | 2023 | Finished |
 | La dictature des algorithmes | Lê Nguyên Hoang, Jean-Lou Fourquet | 2024 | Finished |
