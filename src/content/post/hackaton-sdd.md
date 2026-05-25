@@ -8,7 +8,7 @@ tags: ["deep learning", "supaero"]
 ## Summary
 I participated in a Kaggle competition with Supaero students that was about categorizing bee species from a highly unbalanced dataset. We end up third with my team mate. 
 
-**See [our github repo](https://github.com/jesptri/Beeeesss).**
+**See [our github repo](https://github.com/jesptri/Beeeesss) or [my mate's blog](https://jesptri.github.io/projects.html).**
 
 The main lessons we learnt from this challenge were:
 - to start small. You'd better make sure a small iteration of your solution is doing well to decide if you want to invest more time/energy (or GPU credit) on a bigger iteration of you solution.
